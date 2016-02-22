@@ -2,15 +2,15 @@
 <oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="Linguistic" oor:package="org.openoffice.Office">
  <node oor:name="ServiceManager">
     <node oor:name="Dictionaries">
-        <node oor:name="HyphDic_en-GB" oor:op="fuse">
+        <node oor:name="HyphDic_fi-FI" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
-                <value>%origin%/hyph_en_GB.dic</value>
+                <value>%origin%/hyph_fi_generated.dic</value>
             </prop>
             <prop oor:name="Format" oor:type="xs:string">
                 <value>DICT_HYPH</value>
             </prop>
             <prop oor:name="Locales" oor:type="oor:string-list">
-                <value>en-GB en-ZA en-AU en-CA</value>
+                <value>fi-FI</value>
             </prop>
         </node>
     </node>
