@@ -24,17 +24,6 @@
                 <value>en-US</value>
             </prop>
         </node>
-    	<node oor:name="HunSpellDic_en-AU" oor:op="fuse">
-            <prop oor:name="Locations" oor:type="oor:string-list">
-                <value>%origin%/en_AU.aff %origin%/en_AU.dic</value>
-            </prop>
-            <prop oor:name="Format" oor:type="xs:string">
-                <value>DICT_SPELL</value>
-            </prop>
-            <prop oor:name="Locales" oor:type="oor:string-list">
-                <value>en-AU</value>
-            </prop>
-        </node>
         <node oor:name="HunSpellDic_en-CA" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/en_CA.aff %origin%/en_CA.dic</value>
