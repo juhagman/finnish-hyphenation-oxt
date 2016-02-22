@@ -1,6 +1,4 @@
-English dictionaries for OpenOffice/LibreOffice 4.x and later, in an individual extension.
-
-These are the dictionary files bundled with the English version of Apache OpenOffice.
+Finnish hyphenation rules for OpenOffice/LibreOffice 4.x and later, in an individual extension.
 
 It includes:
-- en_GB (British) (updated: 2016-01-01)
+- hyph_fi_generated (Finnish) (updated: 2016-02-22)

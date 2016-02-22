@@ -5,7 +5,8 @@
     <identifier value="org.openoffice.en.hunspell.dictionaries" />
 	
     <display-name>
-        <name lang="en">English spelling and hyphenation dictionaries and thesaurus</name>
+        <name lang="en">Finnish spelling and hyphenation dictionaries</name>
+        <name lang="fi">Sanakirja ja tavutus suomen kielelle</name>
     </display-name>
 	
     <platform value="all" />
@@ -19,7 +20,7 @@
     </icon>
 
     <publisher>
-        <name xlink:href="http://extensions.openoffice.org/en/project/english-dictionaries-apache-openoffice" lang="en">Marco A.G.Pinto</name>
+        <name xlink:href="http://extensions.openoffice.org/en/project/english-dictionaries-apache-openoffice" lang="en">Jussi Hagman</name>
     </publisher>
 	
 </description>

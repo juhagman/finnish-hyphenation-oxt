@@ -1,3 +1,9 @@
+JTH 2016-02-22
+
+Using existing dict-en.oxt as a basis to create dict-fi.oxt. 
+- Removed English dictionaries and replaced them with finnish.
+
+
 MAGP 2016-01-01
 
 Updated the Dictionaries:
