@@ -1,11 +1,11 @@
 task :default => :create
 
 task :create do |t|
-    chdir "dict-en"
-    sh "zip -r9 dict-en.zip . --exclude .DS_Store"
-    sh "mv dict-en.zip ../dict-en.oxt"
+    chdir "dict-fi"
+    sh "zip -r9 dict-fi.zip . --exclude .DS_Store"
+    sh "mv dict-fi.zip ../dict-fi.oxt"
 end
 
 task :clean do |t|
-    sh "rm dict-en.oxt"
+    sh "rm dict-fi.oxt"
 end
