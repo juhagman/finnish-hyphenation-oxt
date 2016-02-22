@@ -1,8 +1,7 @@
 hyph-fi.tex		-- Retrieved from [1]
-patterns-fi.txt 	-- minor edit
-hyph_fi_generated.dic	-- generated with hyphen[2] / substrings.pl 
+patterns-fi.txt 	-- Minor manual edit
+hyph_fi_generated.dic	-- Generated with hyphen[2] / substrings.pl 
 
 
 [1] ftp://ftp.funet.fi/pub/TeX/CTAN/language/hyph-utf8/tex/generic/hyph-utf8/patterns/tex/hyph-fi.tex
 [2] https://github.com/hunspell/hyphen
-
