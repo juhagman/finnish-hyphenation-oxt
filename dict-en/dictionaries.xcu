@@ -13,17 +13,6 @@
                 <value>en-GB</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_en-US" oor:op="fuse">
-            <prop oor:name="Locations" oor:type="oor:string-list">
-                <value>%origin%/en_US.aff %origin%/en_US.dic</value>
-            </prop>
-            <prop oor:name="Format" oor:type="xs:string">
-                <value>DICT_SPELL</value>
-            </prop>
-            <prop oor:name="Locales" oor:type="oor:string-list">
-                <value>en-US</value>
-            </prop>
-        </node>
         <node oor:name="HyphDic_en-GB" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/hyph_en_GB.dic</value>
